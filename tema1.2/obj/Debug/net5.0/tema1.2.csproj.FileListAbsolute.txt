@@ -1,0 +1,16 @@
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.exe
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.deps.json
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.runtimeconfig.json
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.runtimeconfig.dev.json
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.dll
+E:\pentalog\tema curs 1\tema1.2\bin\Debug\net5.0\tema1.2.pdb
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.csproj.AssemblyReference.cache
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.AssemblyInfoInputs.cache
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.AssemblyInfo.cs
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.csproj.CoreCompileInputs.cache
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.dll
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\refint\tema1.2.dll
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.pdb
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\tema1.2.genruntimeconfig.cache
+E:\pentalog\tema curs 1\tema1.2\obj\Debug\net5.0\ref\tema1.2.dll
