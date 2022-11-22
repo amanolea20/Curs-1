@@ -1,0 +1,32 @@
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.csproj.AssemblyReference.cache
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.AssemblyInfoInputs.cache
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.AssemblyInfo.cs
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.csproj.CoreCompileInputs.cache
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.exe
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.deps.json
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.runtimeconfig.json
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.runtimeconfig.dev.json
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.dll
+E:\pentalog\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.pdb
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.dll
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\refint\tema1.1.dll
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.pdb
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.genruntimeconfig.cache
+E:\pentalog\tema1.1\tema1.1\obj\Debug\net5.0\ref\tema1.1.dll
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.exe
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.deps.json
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.runtimeconfig.json
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.runtimeconfig.dev.json
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.dll
+E:\pentalog\tema curs 1\tema1.1\tema1.1\bin\Debug\net5.0\tema1.1.pdb
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.csproj.AssemblyReference.cache
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.AssemblyInfoInputs.cache
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.AssemblyInfo.cs
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.csproj.CoreCompileInputs.cache
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.dll
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\refint\tema1.1.dll
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.pdb
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\tema1.1.genruntimeconfig.cache
+E:\pentalog\tema curs 1\tema1.1\tema1.1\obj\Debug\net5.0\ref\tema1.1.dll

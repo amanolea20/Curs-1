@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zF7XOIEUQf/4QejFBgCsg3gz7DyKrSFoDipLD/pkH6dd9UA7UkuRZbPqJKtnLxa7p1igt5t30vgASy8B0oTKA==",
+  "success": true,
+  "projectFilePath": "E:\\pentalog\\tema curs 1\\tema1.1\\tema1.1\\tema1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
